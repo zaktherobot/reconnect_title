@@ -1,0 +1,9 @@
+assets:
+- method: copy
+  name: vagstream\Title.win32.scd
+  song_type: title
+  source:
+  - name: DearlyBelovedReconnectByRudeLard.scd
+  vanilla_song: Dearly Beloved
+title: Dearly Beloved - Reconnect Mix by RudeLard
+description: Title song replacement by Rudelard https://www.youtube.com/watch?v=87B0FYmCx0s
